@@ -1,2 +1,2 @@
 # EEG-computation
-this repository is for my EEG computation Codes
+this repository is for my EEG SelfResearch on machine learning based EEG diagnosis
